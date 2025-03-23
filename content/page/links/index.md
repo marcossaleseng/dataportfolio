@@ -1,11 +1,6 @@
 ---
 title: Sobre mim
 hidden: false
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main: 
         weight: 4
@@ -24,6 +19,8 @@ Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico p
 🌉 Solução: Com metodologia analítica e expertise em Business Intelligence, atuo como a ponte que liga esses dados a decisões empresariais impactantes.
 🚀 Minha missão? Não apenas iluminar o caminho, mas pavimentar a estrada para o crescimento e inovação.
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 #### Ferramentas e linguagens de programação na área de dados
@@ -36,7 +33,6 @@ Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico p
     style="padding-right: 10px;"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532"
 />
-
 <img
     align="left"
     alt="sql"
@@ -102,16 +98,7 @@ Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico p
     src="https://upload.wikimedia.org/wikipedia/commons/2/27/Pentho_new_logo_Nov_2023.jpg?20240819084645"
 />
 
-#### Plataforma de versionamento de projeto
-
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
+<br>
 
 #### Linguagens de formatação
 
@@ -139,6 +126,8 @@ Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico p
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
 />
+
+<br>
 
 #### Sistemas operacionais e plataformas
 
@@ -173,7 +162,7 @@ Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico p
     width="60px"
     style="padding-right: 10px;"
     src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg"
-/>
+/><br>
 
 #### Ferramentas de UX Design
 
@@ -200,4 +189,16 @@ Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico p
     width="30px"
     style="padding-right: 10px;"
     src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+/>
+<br>
+
+#### Plataforma de versionamento de projeto
+
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
