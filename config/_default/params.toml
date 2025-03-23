@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "/favicon.png"
+favicon = "/portfolio.png"
 
 [footer]
 since = 2025
@@ -14,7 +14,7 @@ lastUpdated = "23 março, 2025"
 
 [sidebar]
 emoji = "👨‍💻"
-subtitle = "Engenheiro Físico, especialista em dados"
+subtitle = "Engenheiro Físico, Especialista em Dados"
 
 [sidebar.avatar]
 enabled = true
