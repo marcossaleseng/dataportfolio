@@ -1,4 +1,10 @@
-<img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
+# Portfólio Marcos Sales
+Site estático onde apresento sobre mim, alguns projetos pessoas e profissionais que atuo.
+Foi utilizando a plataforma Hugo, gerador de sites estáticos com stack para o projeto.
+
+No site fiz as modificações e personalizações, com CSS, Markdown, Html e javascript.
+
+Pode fazer um *Fork* desse projeto e excutar, seguindo as instruções abaixo. (Geradas pelo CailJimmy, que disponibilizou o tema)
 
 # Hugo Theme Stack Starter Template
 
