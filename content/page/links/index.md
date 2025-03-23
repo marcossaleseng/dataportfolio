@@ -13,11 +13,8 @@ comments: false
 **`Especialista em dados`**
 Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico pela Universidade Federal de Goiás e Pós Graduado em Gerenciamento de Projetos. Atualmente, estou cursando pós graduação em Gestão de projetos e Processos no IPOG e trabalho com encarregado de *Business Intelligence*
 🔍 Transformando montanhas de dados em estratégias vencedoras.
+
 🎯 Objetivo: Ajudar empresas a superar metas e alcançar resultados impactantes.
-📊 Enquanto muitos se perdem em tabelas e números, enxergo oportunidades escondidas e soluções para desafios complexos.
-🚫 Desafio: Muitas organizações enfrentam a paralisia da análise, imersas em dados sem saber como aproveitá-los.
-🌉 Solução: Com metodologia analítica e expertise em Business Intelligence, atuo como a ponte que liga esses dados a decisões empresariais impactantes.
-🚀 Minha missão? Não apenas iluminar o caminho, mas pavimentar a estrada para o crescimento e inovação.
 
 ---
 
