@@ -1,7 +1,7 @@
 ---
 title: "Projeto: Torre Logística"
 description: 
-date: 2025, 23 de março
+date: 2025-03-23 00:00:00+0000
 image: 
 math: 
 license: 
