@@ -11,6 +11,7 @@ comments: false
 ## 👩🏻‍💻 Marcos Sales 🎲
 
 **`Especialista em dados`**
+
 Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico pela Universidade Federal de Goiás e Pós Graduado em Gerenciamento de Projetos. Atualmente, estou cursando pós graduação em Gestão de projetos e Processos no IPOG e trabalho com encarregado de *Business Intelligence*
 🔍 Transformando montanhas de dados em estratégias vencedoras.
 
