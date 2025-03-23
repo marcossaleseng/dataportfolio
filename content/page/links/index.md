@@ -1,6 +1,6 @@
 ---
-title: Links
-hidden: true
+title: Sobre mim
+hidden: false
 links:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
