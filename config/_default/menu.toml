@@ -13,7 +13,7 @@ name = "GitHub"
 url = "https://github.com/marcossaleseng/"
 
 [social.params]
-icon = "brand-github"
+icon = "github-logo"
 
 [[social]]
 identifier = "linkedin"
@@ -21,4 +21,4 @@ name = "Linkedin"
 url = "www.linkedin.com/in/marcos-sales-526252a3"
 
 [social.params]
-icon = "brand-linkedin"
+icon = "linkedin-logo"
