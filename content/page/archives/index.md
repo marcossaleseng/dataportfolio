@@ -1,8 +1,8 @@
 ---
-title: "Archives"
-date: 2022-03-06
+title: "Arquivos"
+date: 2025-03-23
 layout: "archives"
-slug: "archives"
+slug: "arquivos"
 menu:
     main:
         weight: 2
