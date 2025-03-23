@@ -26,7 +26,8 @@ Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico p
 
 ### 🤖 Linguagens e Tecnologias
 
-**Ferramentas e linguagens de programação na área de dados**
+#### Ferramentas e linguagens de programação na área de dados
+
 <img
     align="left"
     alt="powerbi"
@@ -35,6 +36,7 @@ Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico p
     style="padding-right: 10px;"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532"
 />
+
 <img
     align="left"
     alt="sql"
@@ -99,7 +101,9 @@ Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico p
     style="padding-right: 10px;"
     src="https://upload.wikimedia.org/wikipedia/commons/2/27/Pentho_new_logo_Nov_2023.jpg?20240819084645"
 />
-**Plataforma de versionamento de projeto**
+
+#### Plataforma de versionamento de projeto
+
 <img
     align="left"
     alt="Git"
@@ -108,15 +112,9 @@ Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico p
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-<img
-    align="left"
-    alt="bash"
-    title="bash"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
-/>
-**Linguagens de formatação**
+
+#### Linguagens de formatação
+
 <img
     align="left"
     alt="HTML"
@@ -141,7 +139,9 @@ Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico p
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
 />
-**Sistemas operacionais e plataformas**
+
+#### Sistemas operacionais e plataformas
+
 <img
     align="left"
     alt="docker"
@@ -160,13 +160,23 @@ Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico p
 />
 <img
     align="left"
+    alt="bash"
+    title="bash"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+/>
+<img
+    align="left"
     alt="n8n"
     title="n8n"
     width="60px"
     style="padding-right: 10px;"
     src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg"
 />
-**Ferramentas de UX Design**
+
+#### Ferramentas de UX Design
+
 <img
     align="left"
     alt="inkscape"
