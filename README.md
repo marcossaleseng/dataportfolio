@@ -1,4 +1,5 @@
 # Portfólio Marcos Sales
+
 Site estático onde apresento sobre mim, alguns projetos pessoas e profissionais que atuo.
 Foi utilizando a plataforma Hugo, gerador de sites estáticos com stack para o projeto.
 
@@ -6,13 +7,13 @@ No site fiz as modificações e personalizações, com CSS, Markdown, Html e jav
 
 Pode fazer um *Fork* desse projeto e excutar, seguindo as instruções abaixo. (Geradas pelo CailJimmy, que disponibilizou o tema)
 
-# Hugo Theme Stack Starter Template
+## Hugo Theme Stack Starter Template
 
 This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
 
 It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
 
-## Get started
+### Get started
 
 1. Click *Use this template*, and create your repository as `<username>.github.io` on GitHub.
 ![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
@@ -47,14 +48,14 @@ hugo mod tidy
 
 ## Deploy to another static page hostings
 
-If you want to build this site using another static page hosting, you need to make sure they have Go installed in the machine. 
+If you want to build this site using another static page hosting, you need to make sure they have Go installed in the machine.
 
 <details>
   <summary>Vercel</summary>
   
 You need to overwrite build command to install manually Go:
 
-```
+```bash
 amazon-linux-extras install golang1.11 && hugo --gc --minify
 ```
 
@@ -62,12 +63,11 @@ amazon-linux-extras install golang1.11 && hugo --gc --minify
 
 If you are using Node.js 20, you need to overwrite the install command to install manually Go:
 
-```
+```bash
 dnf install -y golang
 ```
 
 ![image](https://github.com/zhi-yi-huang/hugo-theme-stack-starter/assets/83860323/777c1109-dfc8-4893-9db7-1305ec027cf5)
-
 
 Make sure also to specify Hugo version in the environment variable `HUGO_VERSION` (Use the latest version of Hugo extended):
 
