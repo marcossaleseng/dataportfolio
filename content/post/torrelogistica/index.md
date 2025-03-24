@@ -18,7 +18,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 ## Resultado - Painel
 
-| Aqui entrará o painel do power bi
+<iframe title="ArmazemBancoDeDados" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDJlNjk4NmEtNDU0MS00OTk3LWJmODMtZjQ0Y2VjZjQ3Y2Q1IiwidCI6ImVmZDgzMGMwLTIzMGEtNDYzZS1hYTM1LTNlODMzNDY4MWQ2OCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Processo de desenvolvimento de projeto
 
