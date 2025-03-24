@@ -2,7 +2,7 @@
 title: "Projeto: Torre Logística"
 description: 
 date: 2025-03-23 00:00:00+0000
-image: 
+image: TMS.png
 math: 
 license: 
 hidden: false
