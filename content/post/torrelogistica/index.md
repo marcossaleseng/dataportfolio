@@ -20,7 +20,8 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 <iframe title="ArmazemBancoDeDados" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDJlNjk4NmEtNDU0MS00OTk3LWJmODMtZjQ0Y2VjZjQ3Y2Q1IiwidCI6ImVmZDgzMGMwLTIzMGEtNDYzZS1hYTM1LTNlODMzNDY4MWQ2OCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-❕ Caso queira ter acesso ao codígo fonte desse relatório, solicitar aqui 👉🏻``[CÓDIGO FONTE](https://drive.google.com/drive/folders/1qTeAIMRTUEAFwvJuQsOOOFAqpW6QNLzN?usp=sharing)``
+❕ Caso queira ter acesso ao codígo fonte desse relatório, solicitar aqui 👉🏻[CÓDIGO FONTE](https://drive.google.com/drive/folders/1qTeAIMRTUEAFwvJuQsOOOFAqpW6QNLzN?usp=sharing)
+
 ## Processo de desenvolvimento de projeto
 
 Por trás de todo desenvolvimento de uma solução de BI, há um arcabouço teórico por trás, nesse projeto de estudo, não é diferente. Lembrando, que de acordo com as boas práticas de desenvolvimento de projetos (PMBOK 7th),
