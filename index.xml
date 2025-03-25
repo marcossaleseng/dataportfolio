@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marcos Sales</title><link>https://marcossaleseng.github.io/dataportfolio/</link><description>Recent content on Marcos Sales</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://marcossaleseng.github.io/dataportfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Projeto: Torre Logística</title><link>https://marcossaleseng.github.io/dataportfolio/p/projeto-torre-log%C3%ADstica/</link><pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate><guid>https://marcossaleseng.github.io/dataportfolio/p/projeto-torre-log%C3%ADstica/</guid><description>&lt;img src="https://marcossaleseng.github.io/dataportfolio/p/projeto-torre-log%C3%ADstica/TMS.png" alt="Featured image of post Projeto: Torre Logística" />&lt;h2 id="resultado---painel">Resultado - Painel
+&lt;/h2>&lt;iframe title="ArmazemBancoDeDados" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDJlNjk4NmEtNDU0MS00OTk3LWJmODMtZjQ0Y2VjZjQ3Y2Q1IiwidCI6ImVmZDgzMGMwLTIzMGEtNDYzZS1hYTM1LTNlODMzNDY4MWQ2OCJ9" frameborder="0" allowFullScreen="true">&lt;/iframe>
+&lt;p>❕ Caso queira ter acesso ao codígo fonte desse relatório, solicitar aqui 👉🏻&lt;a class="link" href="https://drive.google.com/drive/folders/1qTeAIMRTUEAFwvJuQsOOOFAqpW6QNLzN?usp=sharing" target="_blank" rel="noopener"
+>CÓDIGO FONTE&lt;/a>&lt;/p>
+&lt;h2 id="processo-de-desenvolvimento-de-projeto">Processo de desenvolvimento de projeto
+&lt;/h2>&lt;p>Por trás de todo desenvolvimento de uma solução de BI, há um arcabouço teórico por trás, nesse projeto de estudo, não é diferente. Lembrando, que de acordo com as boas práticas de desenvolvimento de projetos (PMBOK 7th),
+todo projeto deve ser construído com um objetivo específico e há um prazo de início, desenvolvimento e entrega (independente da metodologia de projeto utilizada).
+Tratando de um projeto de dados, não é diferente, de acordo com Carlos Barbieri em seu livro, Governança de Dados,
+um projeto de dados, deve ser principalmente efetivo na geração de resultados, alinhados com a estratégia da companhia. Ou seja, resolver as dores dos &lt;em>stakholders&lt;/em>.&lt;/p>
+&lt;h3 id="metodologia-de-documentação">Metodologia de documentação
+&lt;/h3>&lt;p>Esse projeto foi desenvolvido seguindo o processo de documentação, seguindo as boas práticas de documentação, de acordo com modelo BPMN abaixo, desenha com o auxílio do software Bizagi.
+&lt;img src="https://marcossaleseng.github.io/dataportfolio/p/projeto-torre-log%C3%ADstica/DocumentacaoParaProjetosDeBI.png"
+width="7146"
+height="1536"
+srcset="https://marcossaleseng.github.io/dataportfolio/p/projeto-torre-log%C3%ADstica/DocumentacaoParaProjetosDeBI_hu_8d0f1e3777d41f7f.png 480w, https://marcossaleseng.github.io/dataportfolio/p/projeto-torre-log%C3%ADstica/DocumentacaoParaProjetosDeBI_hu_fee9d55292052642.png 1024w"
+loading="lazy"
+alt="documentação"
+class="gallery-image"
+data-flex-grow="465"
+data-flex-basis="1116px"
+>&lt;/p>
+&lt;h4 id="entrevista">Entrevista
+&lt;/h4>&lt;p>Ao entrevistar nosso principal &lt;em>stakeholder&lt;/em>, aqui chamado de João, temos os contexto do projeto, no qual temos o escopo, que deve ser atendido.&lt;/p>
+&lt;p>João é um gerente de logística, que relata ter muita dificuldade de saber a &amp;ldquo;saúde&amp;rdquo; da operação, seja nas tomadas de decisão em curto prazo, seja para apresentar os indicadores logísticos.
+Por exemplo algumas falas de João:&lt;/p>
+&lt;pre>&lt;code> Há vezes que tenho que montar uma carga, antes do caminhão chegar,
+já desenvolver todo o processo logístico, pois assim que o
+veículo &amp;quot;encostar&amp;quot; na doca, ele deve ser carregado.
+Visto que nossa operação é muito quente, o cliente cobra e nem sempre
+o time sabe dizer qual a expectativa de retorno do veículo. Então
+nesse sentido é necessário um solução &amp;quot;pensei em algo como um painel de tempo&amp;quot;
+para visualizar os indicadores que tenham maior flutuação.
+&lt;/code>&lt;/pre>
+&lt;p>Outro dor do João foi:&lt;/p>
+&lt;pre>&lt;code>Há cobrança da diretoria para saber o desempenho global, o quanto estamos
+avançando, principalmente com relação a outros períodos.
+Sei que estamos ficando melhores, mas não sei medir isso especificamente.
+&lt;/code>&lt;/pre></description></item><item><title>Arquivos</title><link>https://marcossaleseng.github.io/dataportfolio/arquivos/</link><pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate><guid>https://marcossaleseng.github.io/dataportfolio/arquivos/</guid><description/></item><item><title>Pesquisar</title><link>https://marcossaleseng.github.io/dataportfolio/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcossaleseng.github.io/dataportfolio/search/</guid><description/></item><item><title>Sobre mim</title><link>https://marcossaleseng.github.io/dataportfolio/sobre-mim/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcossaleseng.github.io/dataportfolio/sobre-mim/</guid><description>&lt;h2 id="-marcos-sales-">👩🏻‍💻 Marcos Sales 🎲
+&lt;/h2>&lt;p>&lt;strong>&lt;code>Especialista em dados&lt;/code>&lt;/strong>&lt;/p>
+&lt;p>Me chamo Marcos Sales, natural de Goiânia, Goiás, Brasil. Engenheiro Físico pela Universidade Federal de Goiás e Pós Graduado em Gerenciamento de Projetos. Atualmente, estou cursando pós graduação em Gestão de projetos e Processos no IPOG e trabalho com encarregado de &lt;em>Business Intelligence&lt;/em>
+🔍 Transformando montanhas de dados em estratégias vencedoras.&lt;/p>
+&lt;p>🎯 Objetivo: Ajudar empresas a superar metas e alcançar resultados impactantes.&lt;/p>
+&lt;hr>
+&lt;h3 id="-linguagens-e-tecnologias">🤖 Linguagens e Tecnologias
+&lt;/h3>&lt;h4 id="ferramentas-e-linguagens-de-programação-na-área-de-dados">Ferramentas e linguagens de programação na área de dados
+&lt;/h4>&lt;p>&lt;img
+align="left"
+alt="powerbi"
+title="powerbi"
+width="30px"
+style="padding-right: 10px;"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532"
+/>
+&lt;img
+align="left"
+alt="sql"
+title="sql"
+width="30px"
+style="padding-right: 10px;"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/512px-Sql_data_base_with_logo.svg.png?20231031073357"
+/>
+&lt;img
+align="left"
+alt="Python"
+title="Python"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+&lt;img
+align="left"
+alt="pandas"
+title="pandas"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg"
+/>
+&lt;img
+align="left"
+alt="Spark"
+title="Spark"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg"
+/>
+&lt;img
+align="left"
+alt="Postgresql"
+title="Postgresql"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
+/>
+&lt;img
+align="left"
+alt="anaconda"
+title="anaconda"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg"
+/>
+&lt;img
+align="left"
+alt="vscode"
+title="vscode"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+&lt;img
+align="left"
+alt="jupyter"
+title="jupyter"
+width="30px"
+style="padding-right: 10px;"
+src="https://upload.wikimedia.org/wikipedia/commons/2/27/Pentho_new_logo_Nov_2023.jpg?20240819084645"
+/>&lt;/p>
+&lt;br>
+&lt;h4 id="linguagens-de-formatação">Linguagens de formatação
+&lt;/h4>&lt;p>&lt;img
+align="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+&lt;img
+align="left"
+alt="CSS"
+title="CSS"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+&lt;img
+align="left"
+alt="latex"
+title="latex"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
+/>&lt;/p>
+&lt;br>
+&lt;h4 id="sistemas-operacionais-e-plataformas">Sistemas operacionais e plataformas
+&lt;/h4>&lt;p>&lt;img
+align="left"
+alt="docker"
+title="docker"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
+/>
+&lt;img
+align="left"
+alt="Linux"
+title="Linux"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+&lt;img
+align="left"
+alt="bash"
+title="bash"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+/>
+&lt;img
+align="left"
+alt="n8n"
+title="n8n"
+width="60px"
+style="padding-right: 10px;"
+src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg"
+/>&lt;br>&lt;/p>
+&lt;h4 id="ferramentas-de-ux-design">Ferramentas de UX Design
+&lt;/h4>&lt;p>&lt;img
+align="left"
+alt="inkscape"
+title="inkscape"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-plain-wordmark.svg"
+/>
+&lt;img
+align="left"
+alt="gimp"
+title="gimp"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-plain.svg"
+/>
+&lt;img
+align="left"
+alt="figma"
+title="figma"
+width="30px"
+style="padding-right: 10px;"
+src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+/>
+&lt;br>&lt;/p>
+&lt;h4 id="plataforma-de-versionamento-de-projeto">Plataforma de versionamento de projeto
+&lt;/h4>&lt;p>&lt;img
+align="left"
+alt="Git"
+title="Git"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+&lt;br>&lt;/p></description></item></channel></rss>

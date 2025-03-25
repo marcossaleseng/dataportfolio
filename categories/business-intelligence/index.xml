@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Business Intelligence on Marcos Sales</title><link>https://marcossaleseng.github.io/dataportfolio/categories/business-intelligence/</link><description>Recent content in Business Intelligence on Marcos Sales</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://marcossaleseng.github.io/dataportfolio/categories/business-intelligence/index.xml" rel="self" type="application/rss+xml"/><item><title>Projeto: Torre Logística</title><link>https://marcossaleseng.github.io/dataportfolio/p/projeto-torre-log%C3%ADstica/</link><pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate><guid>https://marcossaleseng.github.io/dataportfolio/p/projeto-torre-log%C3%ADstica/</guid><description>&lt;img src="https://marcossaleseng.github.io/dataportfolio/p/projeto-torre-log%C3%ADstica/TMS.png" alt="Featured image of post Projeto: Torre Logística" />&lt;h2 id="resultado---painel">Resultado - Painel
+&lt;/h2>&lt;iframe title="ArmazemBancoDeDados" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDJlNjk4NmEtNDU0MS00OTk3LWJmODMtZjQ0Y2VjZjQ3Y2Q1IiwidCI6ImVmZDgzMGMwLTIzMGEtNDYzZS1hYTM1LTNlODMzNDY4MWQ2OCJ9" frameborder="0" allowFullScreen="true">&lt;/iframe>
+&lt;p>❕ Caso queira ter acesso ao codígo fonte desse relatório, solicitar aqui 👉🏻&lt;a class="link" href="https://drive.google.com/drive/folders/1qTeAIMRTUEAFwvJuQsOOOFAqpW6QNLzN?usp=sharing" target="_blank" rel="noopener"
+>CÓDIGO FONTE&lt;/a>&lt;/p>
+&lt;h2 id="processo-de-desenvolvimento-de-projeto">Processo de desenvolvimento de projeto
+&lt;/h2>&lt;p>Por trás de todo desenvolvimento de uma solução de BI, há um arcabouço teórico por trás, nesse projeto de estudo, não é diferente. Lembrando, que de acordo com as boas práticas de desenvolvimento de projetos (PMBOK 7th),
+todo projeto deve ser construído com um objetivo específico e há um prazo de início, desenvolvimento e entrega (independente da metodologia de projeto utilizada).
+Tratando de um projeto de dados, não é diferente, de acordo com Carlos Barbieri em seu livro, Governança de Dados,
+um projeto de dados, deve ser principalmente efetivo na geração de resultados, alinhados com a estratégia da companhia. Ou seja, resolver as dores dos &lt;em>stakholders&lt;/em>.&lt;/p>
+&lt;h3 id="metodologia-de-documentação">Metodologia de documentação
+&lt;/h3>&lt;p>Esse projeto foi desenvolvido seguindo o processo de documentação, seguindo as boas práticas de documentação, de acordo com modelo BPMN abaixo, desenha com o auxílio do software Bizagi.
+&lt;img src="https://marcossaleseng.github.io/dataportfolio/p/projeto-torre-log%C3%ADstica/DocumentacaoParaProjetosDeBI.png"
+width="7146"
+height="1536"
+srcset="https://marcossaleseng.github.io/dataportfolio/p/projeto-torre-log%C3%ADstica/DocumentacaoParaProjetosDeBI_hu_8d0f1e3777d41f7f.png 480w, https://marcossaleseng.github.io/dataportfolio/p/projeto-torre-log%C3%ADstica/DocumentacaoParaProjetosDeBI_hu_fee9d55292052642.png 1024w"
+loading="lazy"
+alt="documentação"
+class="gallery-image"
+data-flex-grow="465"
+data-flex-basis="1116px"
+>&lt;/p>
+&lt;h4 id="entrevista">Entrevista
+&lt;/h4>&lt;p>Ao entrevistar nosso principal &lt;em>stakeholder&lt;/em>, aqui chamado de João, temos os contexto do projeto, no qual temos o escopo, que deve ser atendido.&lt;/p>
+&lt;p>João é um gerente de logística, que relata ter muita dificuldade de saber a &amp;ldquo;saúde&amp;rdquo; da operação, seja nas tomadas de decisão em curto prazo, seja para apresentar os indicadores logísticos.
+Por exemplo algumas falas de João:&lt;/p>
+&lt;pre>&lt;code> Há vezes que tenho que montar uma carga, antes do caminhão chegar,
+já desenvolver todo o processo logístico, pois assim que o
+veículo &amp;quot;encostar&amp;quot; na doca, ele deve ser carregado.
+Visto que nossa operação é muito quente, o cliente cobra e nem sempre
+o time sabe dizer qual a expectativa de retorno do veículo. Então
+nesse sentido é necessário um solução &amp;quot;pensei em algo como um painel de tempo&amp;quot;
+para visualizar os indicadores que tenham maior flutuação.
+&lt;/code>&lt;/pre>
+&lt;p>Outro dor do João foi:&lt;/p>
+&lt;pre>&lt;code>Há cobrança da diretoria para saber o desempenho global, o quanto estamos
+avançando, principalmente com relação a outros períodos.
+Sei que estamos ficando melhores, mas não sei medir isso especificamente.
+&lt;/code>&lt;/pre></description></item></channel></rss>
